@@ -1,0 +1,32 @@
+﻿  PracticeF.cpp
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(158,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(159,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(240,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(360,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(361,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(447,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(448,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(461,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(461,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(475,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(475,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(497,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(497,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(558,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(558,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(598,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(598,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(657,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(710,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(711,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(721,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(723,89): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(734,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(738,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(740,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(744,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(746,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(748,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(853,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio项目\PracticeF\PracticeF\PracticeF.cpp(857,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  PracticeF.vcxproj -> D:\Visual Studio项目\PracticeF\x64\Debug\PracticeF.exe

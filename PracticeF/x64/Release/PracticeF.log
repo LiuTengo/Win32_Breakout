@@ -1,0 +1,38 @@
+﻿  PracticeF.cpp
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(158,70): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(159,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(242,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(409,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(410,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(498,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(499,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(512,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(512,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(526,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(526,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(548,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(548,50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(609,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(609,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(649,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(649,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(708,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(761,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(762,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(772,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(774,89): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(785,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(789,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(791,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(795,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(797,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(799,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(868,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(915,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\windows11\Desktop\BreakOut！\BreakOut\PracticeF\PracticeF.cpp(922,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  0 of 56 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PracticeF.vcxproj -> C:\Users\windows11\Desktop\BreakOut！\BreakOut\x64\Release\PracticeF.exe
